@@ -17,4 +17,6 @@ ReactDOM.render(
 reportWebVitals();
  */
 
-import './day1/day1'
+// import './day1/day1'
+// import './day2/day2'
+import './day2/selfjsx'

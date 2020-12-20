@@ -1,3 +1,42 @@
 body {
-  background: linear-gradient(blue, pink);
+  background: #f0eeee;
+}
+body #root {
+  background: linear-gradient(lightBlue, antiquewhite, pink);
+}
+body #root .false {
+  background: antiquewhite;
+  background: beige;
+  background: bisque;
+  background: burlywood;
+  background: cornsilk;
+  background: cyan;
+  background: fuchsia;
+  background: greenyellow;
+  background: gold;
+  background: honeydew;
+  background: hotpink;
+  background: ivory;
+  background: khaki;
+  background: lavender;
+  background: lawngreen;
+  background: lightcyan;
+  background: lightpink;
+  background: lightyellow;
+  background: magenta;
+  background: mediumspringgreen;
+  background: mintcream;
+  background: moccasin;
+  background: mistyrose;
+  background: navajowhite;
+  background: oldlace;
+  background: orangered;
+  background: orchid;
+  background: palegoldenrod;
+  background: palegreen;
+  background: palevioletred;
+  background: plum;
+  background: powderblue;
+  background: salmon;
+  background: seashell;
 }
